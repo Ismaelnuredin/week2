@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 **How to Run**
 Clone the repository:-
-git clone https://github.com/yourusername/tellco-customer-behavior.git
+git clone https://github.com/Ismaelnuredin/week2.git
 cd tellco-customer-behavior
 
 Open the Jupyter notebook or Python script.
